@@ -251,7 +251,7 @@ a:hover {
 }
 
 .span4 {
-  width: 300px;
+  width: 375px;
 }
 
 .span3 {
@@ -936,7 +936,7 @@ textarea {
 
 label {
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
 }
 
 select,
