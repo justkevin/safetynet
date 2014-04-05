@@ -15,7 +15,8 @@ body {
 	font-family: 'Droid Sans';
 	font-size: 12px;
 	color: #666;
-	margin-left: 200px;
+	margin-left: 110px;
+	margin-right: 105px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -29,10 +30,11 @@ h1, h2, h3, h4, h5, h6 {
 .title {
 	border-bottom: 3px double #f6f6f6;
 	margin-bottom: 10px;
+	text-align: left;
 }
 
 .title h1, .title h2, .title h3, .title h4, .title h5, .title h6 {
-	border-bottom: 12px double #89c236 !important;
+	border-bottom: 12px double #EC1B23 !important;
 	margin-bottom: -4px !important;
 	display: inline-block !important;
 	padding: 10px 10px !important;
@@ -119,7 +121,7 @@ header {
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
-  	color: #89c236;
+  	color: #DD9F1C;
   	text-decoration: none;
 	border-top:4px solid #89c236;
   	background-color: #fff !important;	
