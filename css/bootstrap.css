@@ -251,7 +251,7 @@ a:hover {
 }
 
 .span4 {
-  width: 400px;
+  width: 550px;
 }
 
 .span3 {
@@ -571,7 +571,8 @@ a:hover {
 }
 
 p {
-  margin: 0 0 10px;
+  margin: 2 0 10px;
+  text-align: right;
 }
 
 .lead {
